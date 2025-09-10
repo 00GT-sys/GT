@@ -4,10 +4,6 @@ Welcome to my cybersecurity portfolio. This is where I track my progress, showca
 
  ## ✅ Completed Projects
 
- ## 🚧 In Progress
-
- ## 🗂 Categories
-
  ## 📜 Certifications & Courses
 
  ## 📫 Contact Me:
