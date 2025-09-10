@@ -6,6 +6,8 @@ Welcome to my cybersecurity portfolio. This is where I track my progress, showca
 
  ## 📜 Certifications & Courses
 
+## 💻 Skills
+
  ## 📫 Contact Me:
  - Email: agbongiagueg@gmail.com 
  - LinkedIn: www.linkedin.com/in/godstime-agbongiague-751815291 
